@@ -3,7 +3,7 @@ export const types = `#graphql
 input CreateTweetData {
     content: String!
     imageUrl: String 
-
+    
  }
 
  
