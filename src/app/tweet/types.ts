@@ -13,5 +13,7 @@ type Tweet {
     imageUrl: String
 
     author: User
+
+    
 }
 `
